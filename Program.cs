@@ -10,6 +10,7 @@ namespace IJ
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("IJunior");
         }
     }
 }
